@@ -1,7 +1,3 @@
-Here's a sample GitHub description for your ESP32-based project:
-
----
-
 # Kublet: ESP32-Based Task Display for Teamwork Projects
 
 Kublet is an ESP32-based IoT device designed to display task information from Teamwork Projects in real-time. This project leverages an ESP32 microcontroller, an LCD screen, and various libraries to fetch, filter, and present tasks assigned to a specific user. It's a handy tool for keeping track of your tasks without needing to check your phone or computer constantly.
