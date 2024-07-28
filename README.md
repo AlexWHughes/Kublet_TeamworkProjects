@@ -34,7 +34,3 @@ Kublet is an ESP32-based IoT device designed to display task information from Te
 
 ## Contributing
 Contributions are welcome! Feel free to submit issues or pull requests to improve the functionality, documentation, or hardware design.
-
----
-
-This description provides a clear overview of the project, its features, setup instructions, and how to contribute. Adjust the content as needed to fit your project's specifics and goals.
